@@ -49,5 +49,5 @@ const users = [
   { id: 48, name: "Ishrat Jahan", email: "ishrat.jahan@gmail.com", password: "pass123", phone: "01611000048", age: 23, city: "Barisal", profession: "Researcher", status: "Inactive" },
   { id: 49, name: "Munna Ahmed", email: "munna.ahmed@gmail.com", password: "pass123", phone: "01711000049", age: 28, city: "Dhaka", profession: "Full Stack Developer", status: "Active" },
   { id: 50, name: "Samia Islam", email: "samia.islam@gmail.com", password: "pass123", phone: "01811000050", age: 24, city: "Mymensingh", profession: "UI/UX Designer", status: "Active" }
-  { id: 50, name: "Waize Ahmed", email: "waize.ahmed@gmail.com", password: "pass123", phone: "01811000050", age: 13, city: "Bogura", profession: "Web developer", status: "Active" }
+  { id: 51, name: "Waize Ahmed", email: "waize.ahmed@gmail.com", password: "pass123", phone: "01811000050", age: 13, city: "Bogura", profession: "Web developer", status: "Active" }
 ];
